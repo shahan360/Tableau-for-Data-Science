@@ -1,3 +1,7 @@
+# Tableau for Data Science
+
+Welcome to the Tableau for Data Science repository! This repository is designed to provide resources and examples to help you learn and master Tableau for your data science projects.
+
 ## Get Started
 
 To get started, follow these steps:
